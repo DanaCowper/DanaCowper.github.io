@@ -11,3 +11,7 @@ section
   color: rgb(125,65,65);
   float: right;
 }
+p
+{
+  text-align:center;
+}
