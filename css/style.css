@@ -1,17 +1,13 @@
 
-:root
-{
-  favcolor: rgb(125,0,0);
-}
 h1
 {
-text-align: center;
-color: var(favcolor);
-background-color: rgb(50,0,0);
-font-size: 38pt;
+  text-align:center;
+  color: rgb(125,65,65);
+  background-color: rgb(100,100,100);
+  font-size: 40pt;
 }
 section
 {
-  color: var (favcolor);
+  color: rgb(125,65,65);
   float: right;
 }
