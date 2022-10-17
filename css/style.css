@@ -13,6 +13,5 @@ font-size: 38pt;
 section
 {
   color: var (favcolor);
-  background-repeat: no-repeat;
   float: right;
 }
