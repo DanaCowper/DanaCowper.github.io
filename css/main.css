@@ -8,3 +8,7 @@ h1
    text-align:center;
    color: rgb(15,3,3)
 }
+h2
+{
+   text-decoration: underline wavy blue 5px;
+}
