@@ -1,1 +1,51 @@
 
+body
+{
+    background-color: rgb(20, 20, 71);
+}
+h1
+{
+    text-align: center;
+    color: rgb(50, 50, 50);
+    font-size: 52pt;
+}
+section h2
+{
+    margin: 7px;
+    font-size: 26pt;
+}
+section
+{
+    border: 5px solid blue;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 10px;
+    clear: both;
+}
+ul
+{
+    font-size: 16pt;
+}
+.date
+{
+    color: goldenrod;
+    float: right;
+}
+nav a
+{   
+    font-size: 20pt;
+    font-weight: bold;
+    color:rgb(51, 173, 173)
+}
+#experience li
+{
+    border-bottom: 2px solid goldenrod
+}
+#education h3
+{
+    border-bottom: 2px solid goldenrod
+}
+img
+{
+    border-radius: 50%;
+}
